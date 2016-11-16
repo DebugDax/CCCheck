@@ -1,1 +1,1 @@
-This is best used by replaced your CCleaner desktop shortcut with the compiled exe.
+This is best used by replacing your CCleaner desktop shortcut with the compiled exe.
